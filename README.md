@@ -5,4 +5,4 @@
  
  
  
-**Página de formulário,compras de pacotes usando HTML & CSS, junto com a blibioteca do Bootstrap5**
+**Página de formulário e compras de pacotes usando HTML & CSS, junto com a blibioteca do Bootstrap5**
